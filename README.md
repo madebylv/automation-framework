@@ -1,2 +1,22 @@
-# automation-framework
-Generic automation framework built with C# and .NET, focused on file processing, logging, configuration and scalability.
+# Automation Framework
+
+A generic automation framework developed in C# and .NET.
+
+## Goals
+
+- Process files
+- Generate logs
+- Manage configurations
+- Handle errors
+- Serve as a foundation for future automations
+
+## Technologies
+
+- C#
+- .NET
+- Serilog
+- ClosedXML
+
+## Status
+
+🚧 In development
